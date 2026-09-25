@@ -21,7 +21,7 @@ I used a lot of third party assets provided on Fab market place. Models and anim
 
 ## How to Play
 
-To play the game, execute `WidgetFactory.exe` in the project folder.
+To play the game, download `Windows` folder and execute `WidgetFactory.exe` in the folder.
 
 - hit Tab to open menu.
 
